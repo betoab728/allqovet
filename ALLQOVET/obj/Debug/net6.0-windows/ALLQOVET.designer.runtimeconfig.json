@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\ELIAS\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ELIAS\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\Seminario\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Seminario\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
