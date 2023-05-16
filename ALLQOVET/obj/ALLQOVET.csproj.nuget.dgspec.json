@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELIAS\\source\\repos\\ALLQOVET\\ALLQOVET\\ALLQOVET.csproj": {}
+    "D:\\VET PROJECT\\allqovet\\ALLQOVET\\ALLQOVET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELIAS\\source\\repos\\ALLQOVET\\ALLQOVET\\ALLQOVET.csproj": {
+    "D:\\VET PROJECT\\allqovet\\ALLQOVET\\ALLQOVET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELIAS\\source\\repos\\ALLQOVET\\ALLQOVET\\ALLQOVET.csproj",
+        "projectUniqueName": "D:\\VET PROJECT\\allqovet\\ALLQOVET\\ALLQOVET.csproj",
         "projectName": "ALLQOVET",
-        "projectPath": "C:\\Users\\ELIAS\\source\\repos\\ALLQOVET\\ALLQOVET\\ALLQOVET.csproj",
-        "packagesPath": "C:\\Users\\ELIAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELIAS\\source\\repos\\ALLQOVET\\ALLQOVET\\obj\\",
+        "projectPath": "D:\\VET PROJECT\\allqovet\\ALLQOVET\\ALLQOVET.csproj",
+        "packagesPath": "C:\\Users\\Seminario\\.nuget\\packages\\",
+        "outputPath": "D:\\VET PROJECT\\allqovet\\ALLQOVET\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ELIAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Seminario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

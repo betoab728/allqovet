@@ -19,3 +19,24 @@ C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmMenu.resources
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmProductos.resources
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmDashboard.resources
+D:\VET PROJECT\allqovet\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.exe
+D:\VET PROJECT\allqovet\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.deps.json
+D:\VET PROJECT\allqovet\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.runtimeconfig.json
+D:\VET PROJECT\allqovet\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.dll
+D:\VET PROJECT\allqovet\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.pdb
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.csproj.AssemblyReference.cache
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmDashboard.resources
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmLogin.resources
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmMenu.resources
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmProductos.resources
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.Properties.Resources.resources
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.csproj.GenerateResource.cache
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.GeneratedMSBuildEditorConfig.editorconfig
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.AssemblyInfoInputs.cache
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.AssemblyInfo.cs
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.csproj.CoreCompileInputs.cache
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.dll
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\refint\ALLQOVET.dll
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.pdb
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.genruntimeconfig.cache
+D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ref\ALLQOVET.dll
