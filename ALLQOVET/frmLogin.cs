@@ -1,10 +1,8 @@
-using System.Drawing;
-
 namespace ALLQOVET
 {
-    public partial class Form1 : Form
+    public partial class frmLogin : Form
     {
-        public Form1()
+        public frmLogin()
         {
             InitializeComponent();
         }
@@ -49,6 +47,13 @@ namespace ALLQOVET
         private void pictureBox3_MouseUp(object sender, MouseEventArgs e)
         {
             textBox2.UseSystemPasswordChar = true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmMenu menu = new frmMenu();
+            menu.Show();
+            this.Visible = false;
         }
     }
 }

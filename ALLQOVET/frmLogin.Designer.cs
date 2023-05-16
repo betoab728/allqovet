@@ -1,6 +1,6 @@
 ﻿namespace ALLQOVET
 {
-    partial class Form1
+    partial class frmLogin
     {
         /// <summary>
         ///  Required designer variable.
@@ -211,6 +211,7 @@
             button1.TabIndex = 5;
             button1.Text = "Ingresar";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // panel4
             // 
@@ -305,7 +306,7 @@
             cerrarbtn.UseVisualStyleBackColor = true;
             cerrarbtn.Click += cerrarbtn_Click;
             // 
-            // Form1
+            // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -314,7 +315,7 @@
             Controls.Add(panel2);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "Form1";
+            Name = "frmLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             panel1.ResumeLayout(false);

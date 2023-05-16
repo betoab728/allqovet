@@ -4,7 +4,6 @@ C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.dll
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\bin\Debug\net6.0-windows\ALLQOVET.pdb
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.csproj.AssemblyReference.cache
-C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.Form1.resources
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.Properties.Resources.resources
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.csproj.GenerateResource.cache
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,7 @@ C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\refint\AL
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.pdb
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.genruntimeconfig.cache
 C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ref\ALLQOVET.dll
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmLogin.resources
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmMenu.resources
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmProductos.resources
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmDashboard.resources
