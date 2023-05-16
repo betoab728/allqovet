@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ALLQOVET
 {
-    public partial class frmClientes : Form
+    public partial class frmMarcas : Form
     {
-        public frmClientes()
+        public frmMarcas()
         {
             InitializeComponent();
         }

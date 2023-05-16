@@ -40,3 +40,5 @@ D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\refint\ALLQOVET.dll
 D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.pdb
 D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.genruntimeconfig.cache
 D:\VET PROJECT\allqovet\ALLQOVET\obj\Debug\net6.0-windows\ref\ALLQOVET.dll
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmClientes.resources
+C:\Users\ELIAS\source\repos\ALLQOVET\ALLQOVET\obj\Debug\net6.0-windows\ALLQOVET.frmMarcas.resources
